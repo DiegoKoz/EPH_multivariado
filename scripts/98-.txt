@@ -1,0 +1,2 @@
+Reducir la dimensionalidad de VIVIENDA
+plotear varias dimensiones y comparar
